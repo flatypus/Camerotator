@@ -6,3 +6,4 @@ Be cool.
 Camerotator.
 
 (requires Unity Virtual Cam)
+(Also make sure no devices are using the camera initially, then wait until the camerotator starts before turning on your camera on any app)
